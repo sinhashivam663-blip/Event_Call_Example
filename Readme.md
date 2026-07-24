@@ -20,7 +20,7 @@ When the user clicks the button, the **click event** is triggered, a JavaScript 
 
 
 Event-Call-Example/
-│── event.html
+│── index.html
 │── event.css
 │── event.js
 └── README.md
@@ -38,11 +38,11 @@ Event-Call-Example/
 1. Download or clone the project.
 2. Open the project folder.
 3. Open `index.html` in your web browser.
-4. Click the **Button**.
+4. Click the **print**.
 5. You will see a message such as:
 
 
-Button Click Hua
+Button Click Hua!
 
 
 
@@ -63,13 +63,13 @@ Button Click Hua
 Before Clicking:
 
 
-[ Button ]
+[ print ]
 
 
 After Clicking:
 
 
-Button Click Hua
+Button Click Hua!
 
 
 
